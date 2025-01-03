@@ -1,0 +1,13 @@
+/*  -Selector: used to select element
+    -property: used to style element
+    -value:set value of property
+    -Declaration block - ordered collection of css poroperties and value
+*/
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
