@@ -1,0 +1,12 @@
+/*  
+   class selector select all element with the class attribute
+  
+*/
+
+.heading {
+  color: blueviolet;
+}
+
+.subheading {
+  color: brown;
+}
