@@ -1,0 +1,17 @@
+/* 
+  -div is used to group multiple element
+  -span is used in group inline content
+
+*/
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.text {
+  color: blueviolet;
+}
