@@ -1,0 +1,31 @@
+/* 
+   HEX VALUE  #RRGGBB
+
+   1 2 3 4 5 6 7 8 9 A(10)  B(11)   C(12)  D(13)  E(14)
+                      10     11      12     13     14
+
+*/
+
+#one {
+  color: #ff0000;
+  background-color: #000000;
+}
+
+#two {
+  color: #00ff00;
+  background-color: #0000ff;
+}
+
+#three {
+  color: #ea00ff;
+  background-color: #ffd900;
+}
+
+#four {
+  color: #ffbf00;
+  background-color: #e600ff;
+}
+
+body {
+  background-color: #524141;
+}
