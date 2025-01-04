@@ -1,0 +1,10 @@
+/* 
+   selector grouping selct mutiple element at ones to style 
+   
+*/
+
+h1,
+h2,
+p {
+  color: red;
+}
