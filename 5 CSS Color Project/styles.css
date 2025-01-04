@@ -1,0 +1,20 @@
+body {
+  background-color: #f1f5f9;
+}
+
+.container {
+  background-color: #ffffff;
+}
+
+.container h3 {
+  color: #0000ff;
+}
+
+.container p {
+  color: #000;
+}
+
+.special-container {
+  background-color: #000;
+  color: #ffffff;
+}
