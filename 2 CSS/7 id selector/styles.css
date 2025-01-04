@@ -1,0 +1,11 @@
+/* 
+  id selector selector all element with id attribute
+*/
+
+#heading {
+  color: green;
+}
+
+#subheading {
+  color: blue;
+}
