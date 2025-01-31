@@ -1,3 +1,13 @@
+/* 
+rem - relative - it does depend on the root
+
+*/
+
+/* this is the root that determin the font
+   relative- 12px*3 =36px
+   absolute - 12px*5=60px
+*/
+
 html {
   font-size: 12px;
 }
