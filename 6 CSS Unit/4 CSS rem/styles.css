@@ -1,0 +1,11 @@
+html {
+  font-size: 12px;
+}
+
+.relative {
+  font-size: 3rem;
+}
+
+.absolute {
+  font-size: 5rem;
+}
