@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  height: 5rem;
+  background-color: red;
+  font-size: 30px;
+}
+
+.banner {
+  background-color: blue;
+  height: calc(100vh - 5rem);
+}
